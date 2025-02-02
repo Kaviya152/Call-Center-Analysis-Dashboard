@@ -1,6 +1,6 @@
 
 
-# 📞 Call Center Performance Report - Power BI  
+# 📞 Call Center Performance Dashboard: Power BI Report
 
 This Power BI report provides a comprehensive analysis of call center operations, helping managers track agent performance, call handling efficiency, and customer satisfaction.  
 
